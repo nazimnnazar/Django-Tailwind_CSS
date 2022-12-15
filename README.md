@@ -10,6 +10,7 @@
  
  
 # About
+
 This project is built using Python , Django REST Framework and HTMX to provide the backend API for eCommerce project.Ecom-Keyboard-Sphynx allows users to buy items of their choice from a wide range of Keyboard.Fully functional E-commerce website front-end and back-end.Currently only COD (Cash on Delivery), has been implemented. Working on email delivery on purchase and payment gateway. Stay tuned for the updates.
 
 ## API Front-end
